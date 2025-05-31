@@ -1,0 +1,3 @@
+displayName = Hegemony
+author = Oxyliteral
+version = 0.15

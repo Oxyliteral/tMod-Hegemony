@@ -1,0 +1,211 @@
+Items: {
+	HegemonyPreHardmode: {
+		Tooltip: ""
+		DisplayName: Hegemony Pre Hardmode
+	}
+
+	HeroInsignia: {
+		DisplayName: Hero Insignia
+		Tooltip: ""
+	}
+
+	WickEndLight: {
+		Tooltip: ""
+		DisplayName: Wick End Light
+	}
+
+	ShimmeringStar: {
+		Tooltip: ""
+		DisplayName: Shimmering Star
+	}
+
+	Peacemaker: {
+		Tooltip: ""
+		DisplayName: Peacemaker
+	}
+
+	OreHeart: {
+		Tooltip: ""
+		DisplayName: Ore Heart
+	}
+
+	NatureWrath: {
+		Tooltip: ""
+		DisplayName: Nature Wrath
+	}
+
+	MatterState: {
+		Tooltip: ""
+		DisplayName: Matter State
+	}
+
+	LandBidding: {
+		Tooltip: ""
+		DisplayName: Land Bidding
+	}
+
+	DwellerSight: {
+		Tooltip: ""
+		DisplayName: Dweller Sight
+	}
+
+	DualityTreasure: {
+		Tooltip: ""
+		DisplayName: Duality Treasure
+	}
+
+	DawnLight: {
+		Tooltip: ""
+		DisplayName: Dawn Light
+	}
+
+	Circumfish: {
+		Tooltip: ""
+		DisplayName: Circumfish
+	}
+
+	AshenPresence: {
+		Tooltip: ""
+		DisplayName: Ashen Presence
+	}
+
+	ArcSpectrum: {
+		Tooltip: ""
+		DisplayName: Arc Spectrum
+	}
+
+	OreHeartMaterialTier4: {
+		Tooltip: ""
+		DisplayName: Ore Heart Material Tier4
+	}
+
+	OreHeartMaterialTier3: {
+		Tooltip: ""
+		DisplayName: Ore Heart Material Tier3
+	}
+
+	OreHeartMaterialTier2: {
+		Tooltip: ""
+		DisplayName: Ore Heart Material Tier2
+	}
+
+	OreHeartMaterialTier1: {
+		Tooltip: ""
+		DisplayName: Ore Heart Material Tier1
+	}
+
+	HeroInsigniaMaterial: {
+		Tooltip: ""
+		DisplayName: Hero Insignia Material
+	}
+
+	DwellerSightMaterial: {
+		Tooltip: ""
+		DisplayName: Dweller Sight Material
+	}
+}
+
+DamageClasses.DamageClassTrueMelee.DisplayName: Damage Class True Melee
+
+Configs: {
+	ModConfigServerSide: {
+		DisplayName: Mod Config Server Side
+
+		Headers: {
+			HeroInsignia: Hero Insignia Header
+			WeaponOut: Weapon Out Header
+			HeroInsigniaSlash: Hero Insignia Slash Header
+			HeroInsigniaPierce: Hero Insignia Pierce Header
+			HeroInsigniaBlunt: Hero Insignia Blunt Header
+			BonusWeapon: Bonus Weapon Header
+			BonusShortcut: Bonus Shortcut Header
+		}
+
+		DamageMultiplier: {
+			Label: Damage Multiplier
+			Tooltip: ""
+		}
+
+		UseTimeMultiplier: {
+			Label: Use Time Multiplier
+			Tooltip: ""
+		}
+
+		CanDrawLayer: {
+			Label: Can Draw Layer
+			Tooltip: ""
+		}
+
+		AttackTypeSlash: {
+			Label: Attack Type Slash
+			Tooltip: ""
+		}
+
+		AttackTypePierce: {
+			Label: Attack Type Pierce
+			Tooltip: ""
+		}
+
+		AttackTypeBlunt: {
+			Label: Attack Type Blunt
+			Tooltip: ""
+		}
+
+		SpecialAttackAnimation: {
+			Label: Special Attack Animation
+			Tooltip: ""
+		}
+
+		SpecialAttackAnimationHitThreshold: {
+			Label: Special Attack Animation Hit Threshold
+			Tooltip: ""
+		}
+
+		SpecialAttackAnimationImmunityMultiplier: {
+			Label: Special Attack Animation Immunity Multiplier
+			Tooltip: ""
+		}
+
+		AttackTypeSlashDashMultiplier: {
+			Label: Attack Type Slash Dash Multiplier
+			Tooltip: ""
+		}
+
+		AttackTypePierceDashMultiplier: {
+			Label: Attack Type Pierce Dash Multiplier
+			Tooltip: ""
+		}
+
+		AttackTypePierceImmunityMultiplier: {
+			Label: Attack Type Pierce Immunity Multiplier
+			Tooltip: ""
+		}
+
+		BonusWeaponEnabled: {
+			Label: Bonus Weapon Enabled
+			Tooltip: ""
+		}
+
+		BonusShortcutEnabled: {
+			Label: Bonus Shortcut Enabled
+			Tooltip: ""
+		}
+	}
+}
+
+Projectiles: {
+	WickEndLightProjectile.DisplayName: Wick End Light Projectile
+	ShimmeringStarProjectile.DisplayName: Shimmering Star Projectile
+	PeacemakerProjectile.DisplayName: Peacemaker Projectile
+	OreHeartProjectile.DisplayName: Ore Heart Projectile
+	NatureWrathProjectile.DisplayName: Nature Wrath Projectile
+	MatterStateProjectile.DisplayName: Matter State Projectile
+	LandBiddingProjectile.DisplayName: Land Bidding Projectile
+	HegemonyPreHardmodeProjectile.DisplayName: Hegemony Pre Hardmode Projectile
+	DwellerSightProjectile.DisplayName: Dweller Sight Projectile
+	DualityTreasureProjectile.DisplayName: Duality Treasure Projectile
+	DawnLightProjectile.DisplayName: Dawn Light Projectile
+	CircumfishProjectile.DisplayName: Circumfish Projectile
+	AshenPresenceProjectile.DisplayName: Ashen Presence Projectile
+	ArcSpectrumProjectile.DisplayName: Arc Spectrum Projectile
+}

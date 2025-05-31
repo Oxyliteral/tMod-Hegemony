@@ -1,0 +1,49 @@
+Progression:
+
+
+Copper Shortsword >|Furnace|> Melted Shortsword >|Anvil|> Hero's Insignia
+
+Purity (Forest) && Surface Snow && Surface Desert && Surface Jungle && Surface Corruption/Crimson && Ocean && Underground/Caverns:
+each ore sword >|Furnace|> Melted Ore Sword >|Anvil|> Shockwave Sword
+Wood/cacti of each >|Demon Altar|> Up-Down Projectile Sword
+Both >||> Sword 1 (Wood Combo?)
+
+Underground Mushroom && Underground Marble Cave && Underground Granite Cave && Underground Spider Nest:
+20 mushroom/marble/granite or 333 cobweb and lava and water > Sword 2 (Obsidian?)
+
+Underground Ice && Underground Desert && Underground Jungle:
+Apple and Desert Fossil and Antlion Mandible and Jungle Grass Seed and Flinx Fur and 20 Gel and Deathweed >||> Sword 3 (Rainbow?)
+
+Caverns Glowing Moss:
+any moss and Daybloom and Blinkroot or Helium Moss > Sword 4 (Moss?)
+
+Bass and Specular Fish and Atlantic Cod and Flounder and Neon Tetra and Trout and Damselfish and Ebonkoi or Crimson Tigerfish
+and Moonglow and Waterleaf and Fireblossom and Shiverthorn:
+>||> Sword 5 (Fishy Oil?)
+
+Underground Corruption/Crimson && Meteorite:
+Vertebrae or rotten chunk and Meteor Shot and Obsidian >||> Sword 6 (Wicked Hell?)
+
+Vital Crystal && Arcane Crystal && Ambrosia && Aether Monolith >|Aether Campfire|> Sword 7 (Crystal?)
+
+Space (Sky Islands) && Underworld (Hell):
+999 Ash Block or Hellstone >|Demon Altar|> Hell Sword
+Cloud/Feather or Starfury >||> Sky Sword
+Both >||> Sword 8 (Black and White?)
+
+The Aether && Jungle Bee Hive && Underworld Ash Forest (Hell):
+AshWood and Water and Lava and Honey and Aetherium Blocks or near Shimmer >||> Sword 9 (Liquid?)
+
+
+Sword 1 || Sword 9
+Sword 2 || Sword 5 || Sword 7
+Sword 3 || Sword 6
+Sword 4 || Sword 8
+
+OR
+
+Night's Edge and Sword 5 and Sword 9
+
+Above Combo >|Demon Altar|Furnace|Anvil|Water|Lava|><|Shimmer|< Hegemony (PH)
+
+Terra Blade + Swords >||><|Shimmer|< Hegemony (H)
