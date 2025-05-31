@@ -1,0 +1,24 @@
+Surface/Underground:
+NatureWrath (demon altar)
+OreHeart (gold/platinum)
+LandBidding (above two) (a1) (slash)
+
+Caverns:
+DualityTreasure (a2) (slash)
+DwellerSight (a4) (blunt)
+
+Brain:
+WickEndLight (meteor) (a3) (pierce)
+DawnLight (magniluminescence) - tier up (starfury/feather)
+
+Jungle:
+ArcSpectrum (desert/jungle) (a3) (pierce)
+Circumfish (neon tetra) (a2) (blunt)
+
+Shimmer:
+ShimmeringStar (life/mana) (a2) (pierce)
+
+Underworld:
+AshenPresence (ash/hellstone)
+Peacemaker (AP && DL) (a4) (blunt)
+MatterState (ashwood) (a1) (slash)
